@@ -53,7 +53,7 @@ A React front end application for implementing connection between a Ruby on Rail
 <!-- Link to Backend -->
 
 ### Link to Backend <a name="Link_to_Frontend"></a>
-[Backend](https://github.com/Enning94/hello-rails-back-end)
+[Rails API](https://github.com/Enning94/hello-rails-back-end)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
